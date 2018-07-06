@@ -1,7 +1,7 @@
 {
     "name": "bclibraries/primo-services",
     "description": "Access to Primo Web services",
-    "type": "library",
+    "type": "drupal-library",
     "license": "MIT",
     "authors": [
         {
